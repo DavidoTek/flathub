@@ -37,8 +37,11 @@ modules:
     build-commands:
       - install -D atlauncher /app/bin/com.atlauncher.ATLauncher
       - install -D com.atlauncher.ATLauncher.desktop /app/share/applications/com.atlauncher.ATLauncher.desktop
+      - install -D com.atlauncher.ATLauncher.appdata.xml /app/share/metainfo/com.atlauncher.ATLauncher.metainfo.xml
     sources:
       - type: file
         path: atlauncher
       - type: file
         path: com.atlauncher.ATLauncher.desktop
+      - type: file
+        path: com.atlauncher.ATLauncher.appdata.xml
