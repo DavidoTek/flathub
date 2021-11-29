@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=ATLauncher
+Exec=com.atlauncher.ATLauncher
+Type=Application
+Icon=com.atlauncher.ATLauncher
+Categories=Game;

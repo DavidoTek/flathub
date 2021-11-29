@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <id>com.atlauncher.ATLauncher</id>
+  <name>ATLauncher</name>
+  <developer_name>ATLauncher</developer_name>
+  <summary>Simple and easy to use Minecraft Launcher</summary>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0</project_license>
+  <url type="homepage">https://atlauncher.com</url>
+  <description><p>ATLauncher is a simple and easy to use Minecraft Launcher which contains 132 ModPacks for you to choose from. We at ATLauncher do not make any of these packs which makes what we do very unique. We help others get ModPacks out there and in the hands of the public.</p></description>
+  <screenshots>
+    <screenshot type="default">
+      <caption>Main Window</caption>
+      <image>https://raw.githubusercontent.com/DavidoTek/flathub/com.atlauncher.ATLauncher/img/01.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>Featured Packs</caption>
+      <image>https://raw.githubusercontent.com/DavidoTek/flathub/com.atlauncher.ATLauncher/img/02.png</image>
+    </screenshot>
+  </screenshots>
+  <categories>
+    <category>Game</category>
+  </categories>
+  <icon type="remote" height="256" width="256">https://raw.githubusercontent.com/DavidoTek/flathub/com.atlauncher.ATLauncher/img/icon256.png</icon>
+  <releases>
+    <release date="2021-01-10" version="3.4.2.3"/>
+  </releases>
+</component>
